@@ -9,4 +9,3 @@
 - [Valuation - NYU](http://people.stern.nyu.edu/adamodar/New_Home_Page/webcasteqUGspr17.htm)
 - [Investment Philosophies -NYU](http://people.stern.nyu.edu/adamodar/New_Home_Page/invphil.htm)
 - [How to Develop Breakthrough Products and Services](https://ocw.mit.edu/courses/sloan-school-of-management/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/)
-- 
